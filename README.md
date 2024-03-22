@@ -22,7 +22,7 @@ In this article, we will learn, how we can do various operations.
 
 - fpdf is a python library for simple PDF generation
 
- -pypdf is a python library built as a PDF toolkit. It is capable of:
+- pypdf is a python library built as a PDF toolkit. It is capable of:
 
 
 Prerequisites
