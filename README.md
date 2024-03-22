@@ -28,16 +28,17 @@ In this article, we will learn, how we can do various operations.
 11 Decrypting PDF to remove password protection
 
 
-img2pdf is a python library to convert images to PDF via direct JPEG inclusion
+  img2pdf is a python library to convert images to PDF via direct JPEG inclusion
 
-fpdf is a python library for simple PDF generation
+  fpdf is a python library for simple PDF generation
 
-pypdf is a python library built as a PDF toolkit. It is capable of:
+  pypdf is a python library built as a PDF toolkit. It is capable of:
+
 
 Prerequisites
 
-pip install img2pdf
+  pip install img2pdf
 
-pip install fpdf
+  pip install fpdf
 
-pip install pypdf
+  pip install pypdf
