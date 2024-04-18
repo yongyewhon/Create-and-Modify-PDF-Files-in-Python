@@ -38,7 +38,7 @@ splits = [4, 6] # Three new pdf with split 1 (page 0-3), split 2 (page 4-5), spl
 pdf_function.PDF_split(pdf, splits)
 
 #7 Insert PDF file
-insertFileName = './pdfs/eaxmple.pdf'
+insertFileName = './pdfs/example.pdf'
 insert_page = 5 # Insert "insertFileName" into page 5 of "originalFileName"
 originalFileName = './pdfs/sample_a.pdf'
 newFileName = './output/insert_example.pdf'
